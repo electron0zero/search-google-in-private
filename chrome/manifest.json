@@ -4,18 +4,12 @@
   "description": "__MSG_extensionDescription__",
   "version": "1.1",
   "default_locale": "en",
-  "applications": {
-    "gecko": {
-      "strict_min_version": "56.0a1"
-    }
-  },
-
   "background": {
     "scripts": ["background.js"]
   },
   
   "permissions": [
-    "menus",
+    "contextMenus",
     "activeTab"
   ],
   
