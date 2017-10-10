@@ -14,9 +14,8 @@ Adds a `Search Google in Private for <selected text>` when you select something,
 ### Screenshots
 
 ![alt text](screenshots/closeup.png "Closeup")
-![alt text](screenshots/page.png "Extensions page")
 ![alt text](screenshots/full-wiki.png "In Action on Wikipedia")
-![alt text](screenshots/full-result.png "Result Page")
+![alt text](screenshots/page.png "Extensions page")
 
 ### License
 Mozilla Public License Version 2.0
