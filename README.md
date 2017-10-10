@@ -1,7 +1,8 @@
 # Search Google in Private
 Adds a `Search Google in Private for <selected text>` when you select something, it's just like Search Google for <selected-text>` context menu but it opens a new private windows for your search
 
-<kbd>Built Using WebExtensions</kbd>,  <kbd>Firefox 56+</kbd>
+## [Get it on AMO](https://addons.mozilla.org/en-US/firefox/addon/search-google-in-private/)
+![alt text](screenshots/getit.png "Get It on AMO")
 
 ### How-to
 1. `git clone https://github.com/electron0zero/search-google-in-private.git`
