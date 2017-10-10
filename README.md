@@ -12,15 +12,18 @@ Adds a `Search Google in Private for <selected text>` when you select something,
 5. go to `about:debugging` in opened browser and you can access [extension debugger](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Debugging)
 
 ## Screenshots
-### Firefox
 <p align="center">
-<img src="screenshots/ff/closeup.png" width="300">
+<img src="screenshots/firefox/closeup.png" width="400">
+<img src="screenshots/chrome/closeup.png" width="400">
 <br>
-<img src="screenshots/ff/getit.png" width="300">
-<img src="screenshots/ff/page.png" width="300">
+<img src="screenshots/firefox/page.png" width="400">
+<img src="screenshots/chrome/page.png" width="400">
 <br>
-<img src="screenshots/ff/full-wiki.png" width="300">
-<img src="screenshots/ff/full-result.png" width="300">
+<img src="screenshots/firefox/full-wiki.png" width="400">
+<img src="screenshots/chrome/full-wiki.png" width="400">
+<br>
+<img src="screenshots/firefox/full-result.png" width="400">
+<img src="screenshots/chrome/full-result.png" width="400">
 </p>
 
 ### License
