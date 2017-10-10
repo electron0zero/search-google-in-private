@@ -3,6 +3,9 @@ Adds a `Search Google in Private for <selected text>` when you select something,
 
 ## [For Firefox - Get it on AMO](https://addons.mozilla.org/en-US/firefox/addon/search-google-in-private/)
 
+## [For Chrome - get zip file from releases](https://github.com/electron0zero/search-google-in-private/releases)
+- To install download `search-google-in-private.zip` from [releases](https://github.com/electron0zero/search-google-in-private/releases) and unzip and install it as unpacked extension (make sure developer mode is enabled), but this also will give you an annoying pop-up each time asking to disable it.
+
 ### How-to build
 1. `git clone https://github.com/electron0zero/search-google-in-private.git`
 
