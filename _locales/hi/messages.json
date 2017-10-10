@@ -9,7 +9,7 @@
     "description": "Description of the add-on."
   },
 
-  "menuItemSelectionLogger": {
+  "menuItemSelection": {
     "message": "Google में निजी खोजें \"%s\"",
     "description": "Title of context menu item"
   }

@@ -9,7 +9,7 @@
     "description": "Description of the add-on."
   },
 
-  "menuItemSelectionLogger": {
+  "menuItemSelection": {
     "message": "Search Google in Private for \"%s\"",
     "description": "Title of context menu item"
   }
