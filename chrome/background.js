@@ -16,7 +16,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
   switch (info.menuItemId) {
     case "selected-text":
       // create a incognito window
-      let searchURL = "https://www.google.com/search?q=" + info.selectionText
+      let searchURL = "https://www.google.com/search?q=" + encodeURIComponent(info.selectionText)
       let createData = {
           incognito: true,
           url: [searchURL]
