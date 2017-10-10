@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Search Google in Private",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a \"Search Google in Private\" when you select something, it's just like Search Google for context menu but it opens a new private windows for your search",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemSelection": {
+    "message": "Search Google in Private for \"%s\"",
+    "description": "Title of context menu item"
+  }
+}

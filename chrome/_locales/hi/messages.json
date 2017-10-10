@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Google में निजी खोजें",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "जब आप कुछ चुनते हैं तो \"Google में निजी खोजें\" जोड़ता है, यह \"Google के लिए खोजें\" संदर्भ मेनू की तरह है लेकिन यह आपकी खोज के लिए एक नई निजी विंडो खोलता है",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemSelection": {
+    "message": "Google में निजी खोजें \"%s\"",
+    "description": "Title of context menu item"
+  }
+}
