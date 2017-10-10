@@ -18,3 +18,5 @@ jspm_packages
 
 web-ext-artifacts
 search-google-in-private.zip
+chrome.crx
+chrome.pem
