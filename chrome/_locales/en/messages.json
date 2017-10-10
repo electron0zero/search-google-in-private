@@ -5,7 +5,7 @@
   },
 
   "extensionDescription": {
-    "message": "Adds a \"Search Google in Private\" when you select something, it's just like Search Google for context menu but it opens a new private windows for your search",
+    "message": "Adds a Search Google in Private when you select something, on click it opens a new private windows for your search",
     "description": "Description of the add-on."
   },
 
