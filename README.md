@@ -1,7 +1,7 @@
 # Search Google in Private
 Adds a `Search Google in Private for <selected text>` when you select something, it's just like Search Google for <selected-text>` context menu but it opens a new private windows for your search
 
-<kdb>Built Using WebExtensions</kbd> <kbd>Firefox 56+</kbd>
+<kbd>Built Using WebExtensions</kbd>,  <kbd>Firefox 56+</kbd>
 
 My primary use is for searching for all the spelling mistakes I make, and I don't want them in my Google Search History.
 
